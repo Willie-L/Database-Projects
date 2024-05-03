@@ -1,0 +1,13 @@
+planet_id,name,star_id,planet_type,is_habitable,is_spherical,number_of_moons
+1,Mercury,1,terrestrial,no,yes,0
+2,Venus,1,terrestrial,no,yes,0
+3,Earth,1,terrestrial,yes,yes,1
+4,Mars,1,terrestrial,yes,yes,2
+5,Jupiter,1,gas giant,no,yes,95
+6,Saturn,1,gas giant,no,yes,146
+7,Uranus,1,ice giant,no,yes,28
+8,Neptune,1,ice giant,no,yes,16
+9,Pluto,1,dwarf,no,yes,5
+10,Proxima Centauri b,4,terrestrial,yes,yes,
+11,Haumea,1,dwarf,no,no,2
+12,Makemake,1,dwarf,no,yes,1

@@ -1,0 +1,7 @@
+galaxy_id,name,distance_in_light_years,constellation_id,galaxy_type
+1,Milky Way,0,1,barred spiral
+2,Andromeda,2500000,2,barred spiral
+3,Black Eye Galaxy,17000000,4,spiral
+4,Eye of God,60000000,5,intermediate spiral
+5,Sombrero Galaxy,31100000,6,
+6,Pinwheel Galaxy,21000000,7,spiral
